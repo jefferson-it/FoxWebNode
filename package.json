@@ -1,0 +1,27 @@
+{
+  "name": "foxweb-node",
+  "version": "1.0.8",
+  "description": "FoxWeb is a JS script that aims to make JS easier. It can be used on both frontend and backend. More info in https://github.com/jefferson-developer-it/FoxWeb",
+  "main": "./JS/FoxWeb.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jefferson-developer-it/FoxWebNode"
+  },
+  "keywords": [
+    "JS",
+    "FoxWeb",
+    "Js Shortener"
+  ],
+  "author": "Jefferson Silva De Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefferson-developer-it/FoxWebNode/issues"
+  },
+  "homepage": "https://github.com/jefferson-developer-it/FoxWebNode#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
